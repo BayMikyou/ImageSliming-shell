@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # TINY_KEY用于调用 TINYPNG API
-TINY_KEY=vdTujbsFyys8NDxCybJfxzzYxDQxgvqB
+TINY_KEY=
 CURRENT_DIR="unknown"
 OUTPUT_DIR=output
 
